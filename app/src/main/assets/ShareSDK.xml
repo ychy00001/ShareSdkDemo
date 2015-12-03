@@ -59,8 +59,8 @@
     <SinaWeibo
         Id="1"
         SortId="1"
-        AppKey="3602187419"
-        AppSecret="78a841566e6c4e23c915fd3b20cdf422"
+        AppKey="2476894643"
+        AppSecret="09cd9462aa6e1014530603f49117302d"
         RedirectUrl="http://www.baidu.com"
         ShareByAppClient="true"
         Enable="true" />
@@ -107,7 +107,7 @@
         SortId="5"
         AppId="wx4868b35061f87885"
         AppSecret="64020361b8ec4c99936c0e3999a9f249"
-        BypassApproval="false"
+        BypassApproval="true"
         Enable="true" />
         
 	<WechatFavorite

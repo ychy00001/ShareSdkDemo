@@ -1,4 +1,4 @@
-package com.example.dell.sharesdkdemo;
+package com.smalltown.sharesdk.sharesdkdemo;
 
 import org.junit.Test;
 
